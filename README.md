@@ -1,4 +1,4 @@
-## Hi, I'm Ali Hossain 👋
+## Hi, I'm Afzal 👋
 
 <p>
 👑 I am Web Developer <br> 
