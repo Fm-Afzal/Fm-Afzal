@@ -5,9 +5,6 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
-
-<p align="left"> <a href="img/twitter.png" alt="twitter" /></a> </p>
-
 ## 🚀 About Me
 I’m a Front-End Developer and WordPress Customizer passionate about building clean, responsive, and user-friendly websites.
 
@@ -30,9 +27,9 @@ To become a skilled Elementor Expert and Full-Stack Developer while continuously
 
 
 ## ☕ Connect with me!
-[<img src='/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/f.m.afzal.bare)  [<img src='/img/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)  
+[<img src='/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/f.m.afzal.bare)  [<img src='/img/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/afzal.bare)  [<img src='/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/afzalbare)  
 
 
 
 ## 📧 For Business Inquiries 
-✅  ► shovoalways@gmail.com
+✅  ► fmafzalulbare@gmail.com
