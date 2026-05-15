@@ -25,8 +25,12 @@ To become a skilled Elementor Expert and Full-Stack Developer while continuously
 ✅ PHP <br>
 ✅ React(Basic) <br>
 ✅ WordPress <br>
-✅ Elementor <br> 
+✅ Elementor <br>
+✅ Gutenberg <br>
 ✅ JetEngine <br>
+✅ ACF <br>
+✅ Wix <br>
+✅ Bricks Builder <br>
 
 ## ☕ Connect with me!
 [<img src='/img/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/f.m.afzal.bare)  [<img src='/img/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/afzal.bare)  [<img src='/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/afzalbare)  
